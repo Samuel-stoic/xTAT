@@ -1,0 +1,12 @@
+{
+  "name": "xtat-bot",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot built with Node.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
